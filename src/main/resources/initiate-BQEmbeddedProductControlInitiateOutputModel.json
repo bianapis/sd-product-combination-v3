@@ -1,0 +1,14 @@
+{
+  "embeddedProductControlCombinedProductControlServiceType" : "embeddedProductControlCombinedProductControlServiceType",
+  "embeddedProductControlInstanceReference" : "EPCIR745380",
+  "embeddedProductControlInitiateActionRecord" : {},
+  "embeddedProductControlFeatureSchedule" : "embeddedProductControlFeatureSchedule",
+  "embeddedProductControlInstanceStatus" : "embeddedProductControlInstanceStatus",
+  "combinedProductControl" : "combinedProductControl",
+  "embeddedProductControlInitiateActionReference" : "EPCIAR791322",
+  "embeddedProductControlPreconditions" : "embeddedProductControlPreconditions",
+  "embeddedProductControlPostconditions" : "embeddedProductControlPostconditions",
+  "embeddedProductControlCombinedProductControlServiceDescription" : "embeddedProductControlCombinedProductControlServiceDescription",
+  "embeddedProductControlCombinedProductControlServiceInputsandOuputs" : "embeddedProductControlCombinedProductControlServiceInputsandOuputs",
+  "embeddedProductControlCombinedProductControlServiceWorkProduct" : "embeddedProductControlCombinedProductControlServiceWorkProduct"
+}

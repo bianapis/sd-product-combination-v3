@@ -1,0 +1,28 @@
+{
+  "productCombinationArrangementReference" : "PCAR790102",
+  "productCombinationArrangementAccountType" : "productCombinationArrangementAccountType",
+  "productCombinationArrangementSchedule" : "productCombinationArrangementSchedule",
+  "productCombinationArrangementBookingLocation" : "productCombinationArrangementBookingLocation",
+  "productCombinationArrangementStatus" : "productCombinationArrangementStatus",
+  "productCombinationArrangementRegulationReference" : "PCARR750478",
+  "productCombinationArrangementParameterType" : "productCombinationArrangementParameterType",
+  "productCombinationArrangementCurrency" : "USD",
+  "productCombinationArrangementRegulationType" : "productCombinationArrangementRegulationType",
+  "productCombinationArrangementJurisdiction" : "productCombinationArrangementJurisdiction",
+  "productCombinationArrangementAccountReference" : "PCAAR793761",
+  "productCombinationArrangementRetrieveActionTaskRecord" : {},
+  "productCombinationArrangementRetrieveActionResponse" : "productCombinationArrangementRetrieveActionResponse",
+  "productCombinationArrangementInstanceAnalysis" : {
+    "productCombinationArrangementInstanceAnalysisData" : "productCombinationArrangementInstanceAnalysisData",
+    "productCombinationArrangementInstanceAnalysisReportType" : "productCombinationArrangementInstanceAnalysisReportType",
+    "productCombinationArrangementInstanceAnalysisReport" : {}
+  },
+  "productCombinationArrangementRetrieveActionTaskReference" : "PCARATR797967",
+  "productCombinationArrangementSelectedOption" : "productCombinationArrangementSelectedOption",
+  "productCombinationArrangementType" : "productCombinationArrangementType",
+  "productCombinationArrangementInstanceReportRecord" : {
+    "productCombinationArrangementInstanceReportData" : "productCombinationArrangementInstanceReportData",
+    "productCombinationArrangementInstanceReport" : {},
+    "productCombinationArrangementInstanceReportType" : "productCombinationArrangementInstanceReportType"
+  }
+}

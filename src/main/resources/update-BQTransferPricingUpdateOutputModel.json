@@ -1,0 +1,14 @@
+{
+  "transferPricingProductTransferPricingServiceName" : "transferPricingProductTransferPricingServiceName",
+  "transferPricingUpdateActionTaskReference" : "TPUATR790834",
+  "transferPricingProductTransferPricingServiceType" : "transferPricingProductTransferPricingServiceType",
+  "transferPricingProductTransferPricingServiceInputsandOuputs" : "transferPricingProductTransferPricingServiceInputsandOuputs",
+  "transferPricingProductTransferPricingServiceDescription" : "transferPricingProductTransferPricingServiceDescription",
+  "transferPricingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "transferPricingFeatureSchedule" : "transferPricingFeatureSchedule",
+  "transferPricingProductTransferPricingServiceWorkProduct" : "transferPricingProductTransferPricingServiceWorkProduct",
+  "transferPricingPostconditions" : "transferPricingPostconditions",
+  "transferPricingPreconditions" : "transferPricingPreconditions",
+  "productTransferPricing" : "productTransferPricing"
+}

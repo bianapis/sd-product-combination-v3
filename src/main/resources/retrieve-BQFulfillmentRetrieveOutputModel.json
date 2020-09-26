@@ -1,0 +1,26 @@
+{
+  "fulfillmentFeatureSchedule" : "fulfillmentFeatureSchedule",
+  "fiduciaryArrangementFulfillment" : "fiduciaryArrangementFulfillment",
+  "fulfillmentPostconditions" : "fulfillmentPostconditions",
+  "fulfillmentRetrieveActionTaskRecord" : {},
+  "fulfillmentFiduciaryArrangementFulfillmentServiceDescription" : "fulfillmentFiduciaryArrangementFulfillmentServiceDescription",
+  "fulfillmentRetrieveActionTaskReference" : "FRATR701473",
+  "fulfillmentFiduciaryArrangementFulfillmentServiceName" : "fulfillmentFiduciaryArrangementFulfillmentServiceName",
+  "fulfillmentFiduciaryArrangementFulfillmentServiceInputsandOuputs" : "fulfillmentFiduciaryArrangementFulfillmentServiceInputsandOuputs",
+  "fulfillmentRetrieveActionResponse" : "fulfillmentRetrieveActionResponse",
+  "fulfillmentInstanceAnalysis" : {
+    "fulfillmentInstanceAnalysisParameters" : "fulfillmentInstanceAnalysisParameters",
+    "fulfillmentInstanceAnalysisRecord" : {},
+    "fulfillmentInstanceAnalysisReportType" : "fulfillmentInstanceAnalysisReportType",
+    "fulfillmentInstanceAnalysisReport" : {}
+  },
+  "fulfillmentFiduciaryArrangementFulfillmentServiceWorkProduct" : "fulfillmentFiduciaryArrangementFulfillmentServiceWorkProduct",
+  "fulfillmentPreconditions" : "fulfillmentPreconditions",
+  "fulfillmentFiduciaryArrangementFulfillmentServiceType" : "fulfillmentFiduciaryArrangementFulfillmentServiceType",
+  "fulfillmentInstanceReport" : {
+    "fulfillmentInstanceReportType" : "fulfillmentInstanceReportType",
+    "fulfillmentInstanceReportRecord" : {},
+    "fulfillmentInstanceReportParameters" : "fulfillmentInstanceReportParameters",
+    "fulfillmentInstanceReport" : {}
+  }
+}

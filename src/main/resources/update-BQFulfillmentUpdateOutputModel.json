@@ -1,0 +1,14 @@
+{
+  "fulfillmentFiduciaryArrangementFulfillmentServiceName" : "fulfillmentFiduciaryArrangementFulfillmentServiceName",
+  "fulfillmentFeatureSchedule" : "fulfillmentFeatureSchedule",
+  "fulfillmentUpdateActionTaskReference" : "FUATR700864",
+  "fulfillmentFiduciaryArrangementFulfillmentServiceInputsandOuputs" : "fulfillmentFiduciaryArrangementFulfillmentServiceInputsandOuputs",
+  "fiduciaryArrangementFulfillment" : "fiduciaryArrangementFulfillment",
+  "updateResponseRecord" : {},
+  "fulfillmentFiduciaryArrangementFulfillmentServiceWorkProduct" : "fulfillmentFiduciaryArrangementFulfillmentServiceWorkProduct",
+  "fulfillmentPreconditions" : "fulfillmentPreconditions",
+  "fulfillmentFiduciaryArrangementFulfillmentServiceType" : "fulfillmentFiduciaryArrangementFulfillmentServiceType",
+  "fulfillmentPostconditions" : "fulfillmentPostconditions",
+  "fulfillmentUpdateActionTaskRecord" : {},
+  "fulfillmentFiduciaryArrangementFulfillmentServiceDescription" : "fulfillmentFiduciaryArrangementFulfillmentServiceDescription"
+}

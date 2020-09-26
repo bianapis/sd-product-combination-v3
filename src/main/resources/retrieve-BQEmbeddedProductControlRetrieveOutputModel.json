@@ -1,0 +1,25 @@
+{
+  "embeddedProductControlInstanceAnalysis" : {
+    "embeddedProductControlInstanceAnalysisReport" : {},
+    "embeddedProductControlInstanceAnalysisReportType" : "embeddedProductControlInstanceAnalysisReportType",
+    "embeddedProductControlInstanceAnalysisParameters" : "embeddedProductControlInstanceAnalysisParameters",
+    "embeddedProductControlInstanceAnalysisRecord" : {}
+  },
+  "embeddedProductControlPreconditions" : "embeddedProductControlPreconditions",
+  "embeddedProductControlInstanceReport" : {
+    "embeddedProductControlInstanceReportType" : "embeddedProductControlInstanceReportType",
+    "embeddedProductControlInstanceReportParameters" : "embeddedProductControlInstanceReportParameters",
+    "embeddedProductControlInstanceReport" : {},
+    "embeddedProductControlInstanceReportRecord" : {}
+  },
+  "embeddedProductControlCombinedProductControlServiceDescription" : "embeddedProductControlCombinedProductControlServiceDescription",
+  "embeddedProductControlRetrieveActionResponse" : "embeddedProductControlRetrieveActionResponse",
+  "embeddedProductControlCombinedProductControlServiceType" : "embeddedProductControlCombinedProductControlServiceType",
+  "embeddedProductControlFeatureSchedule" : "embeddedProductControlFeatureSchedule",
+  "embeddedProductControlRetrieveActionTaskReference" : "EPCRATR770719",
+  "combinedProductControl" : "combinedProductControl",
+  "embeddedProductControlRetrieveActionTaskRecord" : {},
+  "embeddedProductControlPostconditions" : "embeddedProductControlPostconditions",
+  "embeddedProductControlCombinedProductControlServiceInputsandOuputs" : "embeddedProductControlCombinedProductControlServiceInputsandOuputs",
+  "embeddedProductControlCombinedProductControlServiceWorkProduct" : "embeddedProductControlCombinedProductControlServiceWorkProduct"
+}

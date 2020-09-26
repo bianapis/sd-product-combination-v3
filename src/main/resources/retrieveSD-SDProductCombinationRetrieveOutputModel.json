@@ -1,0 +1,39 @@
+{
+  "productCombinationRetrieveActionResponse" : "productCombinationRetrieveActionResponse",
+  "productCombinationRetrieveActionTaskRecord" : {},
+  "productCombinationRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "productCombinationActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "productCombinationPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  },
+  "productCombinationOfferedService" : {
+    "productCombinationServiceReference" : "776158",
+    "productCombinationServiceRecord" : {
+      "productCombinationServiceVersion" : "productCombinationServiceVersion",
+      "productCombinationServiceType" : "productCombinationServiceType",
+      "productCombinationServicePoliciesandGuidelines" : {
+        "productCombinationServiceEligibility" : "productCombinationServiceEligibility",
+        "productCombinationServiceIntendedUses" : "productCombinationServiceIntendedUses",
+        "productCombinationServicePricingandTerms" : "productCombinationServicePricingandTerms"
+      },
+      "productCombinationServiceSchedule" : "productCombinationServiceSchedule",
+      "productCombinationServiceDescription" : "productCombinationServiceDescription"
+    }
+  },
+  "productCombinationRetrieveActionTaskReference" : "SRATR795161"
+}

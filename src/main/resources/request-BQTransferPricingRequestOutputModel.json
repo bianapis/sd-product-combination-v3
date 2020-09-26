@@ -1,0 +1,15 @@
+{
+  "transferPricingProductTransferPricingServiceName" : "transferPricingProductTransferPricingServiceName",
+  "transferPricingRequestRecordReference" : "TPRRR707011",
+  "transferPricingFeatureSchedule" : "transferPricingFeatureSchedule",
+  "transferPricingRequestActionTaskRecord" : {},
+  "productTransferPricing" : "productTransferPricing",
+  "requestResponseRecord" : {},
+  "transferPricingProductTransferPricingServiceType" : "transferPricingProductTransferPricingServiceType",
+  "transferPricingProductTransferPricingServiceInputsandOuputs" : "transferPricingProductTransferPricingServiceInputsandOuputs",
+  "transferPricingProductTransferPricingServiceDescription" : "transferPricingProductTransferPricingServiceDescription",
+  "transferPricingProductTransferPricingServiceWorkProduct" : "transferPricingProductTransferPricingServiceWorkProduct",
+  "transferPricingRequestActionTaskReference" : "TPRATR716565",
+  "transferPricingPostconditions" : "transferPricingPostconditions",
+  "transferPricingPreconditions" : "transferPricingPreconditions"
+}

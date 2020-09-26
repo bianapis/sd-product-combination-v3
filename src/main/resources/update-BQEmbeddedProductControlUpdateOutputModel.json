@@ -1,0 +1,13 @@
+{
+  "embeddedProductControlCombinedProductControlServiceType" : "embeddedProductControlCombinedProductControlServiceType",
+  "embeddedProductControlFeatureSchedule" : "embeddedProductControlFeatureSchedule",
+  "embeddedProductControlUpdateActionTaskReference" : "EPCUATR736134",
+  "embeddedProductControlUpdateActionTaskRecord" : {},
+  "combinedProductControl" : "combinedProductControl",
+  "updateResponseRecord" : {},
+  "embeddedProductControlPreconditions" : "embeddedProductControlPreconditions",
+  "embeddedProductControlPostconditions" : "embeddedProductControlPostconditions",
+  "embeddedProductControlCombinedProductControlServiceDescription" : "embeddedProductControlCombinedProductControlServiceDescription",
+  "embeddedProductControlCombinedProductControlServiceInputsandOuputs" : "embeddedProductControlCombinedProductControlServiceInputsandOuputs",
+  "embeddedProductControlCombinedProductControlServiceWorkProduct" : "embeddedProductControlCombinedProductControlServiceWorkProduct"
+}

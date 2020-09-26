@@ -1,0 +1,15 @@
+{
+  "fulfillmentExecuteRecordReference" : "FERR725438",
+  "fulfillmentFeatureSchedule" : "fulfillmentFeatureSchedule",
+  "executeResponseRecord" : {},
+  "fulfillmentExecuteActionTaskReference" : "FEATR740138",
+  "fulfillmentExecuteActionTaskRecord" : {},
+  "fiduciaryArrangementFulfillment" : "fiduciaryArrangementFulfillment",
+  "fulfillmentPostconditions" : "fulfillmentPostconditions",
+  "fulfillmentFiduciaryArrangementFulfillmentServiceDescription" : "fulfillmentFiduciaryArrangementFulfillmentServiceDescription",
+  "fulfillmentFiduciaryArrangementFulfillmentServiceName" : "fulfillmentFiduciaryArrangementFulfillmentServiceName",
+  "fulfillmentFiduciaryArrangementFulfillmentServiceInputsandOuputs" : "fulfillmentFiduciaryArrangementFulfillmentServiceInputsandOuputs",
+  "fulfillmentFiduciaryArrangementFulfillmentServiceWorkProduct" : "fulfillmentFiduciaryArrangementFulfillmentServiceWorkProduct",
+  "fulfillmentPreconditions" : "fulfillmentPreconditions",
+  "fulfillmentFiduciaryArrangementFulfillmentServiceType" : "fulfillmentFiduciaryArrangementFulfillmentServiceType"
+}

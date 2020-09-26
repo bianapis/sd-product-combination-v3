@@ -1,0 +1,26 @@
+{
+  "transferPricingProductTransferPricingServiceName" : "transferPricingProductTransferPricingServiceName",
+  "transferPricingFeatureSchedule" : "transferPricingFeatureSchedule",
+  "transferPricingInstanceReport" : {
+    "transferPricingInstanceReportParameters" : "transferPricingInstanceReportParameters",
+    "transferPricingInstanceReportType" : "transferPricingInstanceReportType",
+    "transferPricingInstanceReportRecord" : {},
+    "transferPricingInstanceReport" : {}
+  },
+  "transferPricingInstanceAnalysis" : {
+    "transferPricingInstanceAnalysisReport" : {},
+    "transferPricingInstanceAnalysisReportType" : "transferPricingInstanceAnalysisReportType",
+    "transferPricingInstanceAnalysisRecord" : {},
+    "transferPricingInstanceAnalysisParameters" : "transferPricingInstanceAnalysisParameters"
+  },
+  "transferPricingRetrieveActionResponse" : "transferPricingRetrieveActionResponse",
+  "productTransferPricing" : "productTransferPricing",
+  "transferPricingRetrieveActionTaskRecord" : {},
+  "transferPricingProductTransferPricingServiceType" : "transferPricingProductTransferPricingServiceType",
+  "transferPricingProductTransferPricingServiceInputsandOuputs" : "transferPricingProductTransferPricingServiceInputsandOuputs",
+  "transferPricingProductTransferPricingServiceDescription" : "transferPricingProductTransferPricingServiceDescription",
+  "transferPricingProductTransferPricingServiceWorkProduct" : "transferPricingProductTransferPricingServiceWorkProduct",
+  "transferPricingPostconditions" : "transferPricingPostconditions",
+  "transferPricingPreconditions" : "transferPricingPreconditions",
+  "transferPricingRetrieveActionTaskReference" : "TPRATR745031"
+}
